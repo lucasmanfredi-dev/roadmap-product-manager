@@ -1,4 +1,4 @@
-# 🚀 Roadmap de Carreira em Tecnologia  
+# 🚀 Product Manager Career Roadmap
 ## 🎯 Transição Estratégica para Product Manager
 
 ---
