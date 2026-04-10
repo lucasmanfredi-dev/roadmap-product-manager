@@ -1,5 +1,16 @@
-# 🚀 Product Manager Career Roadmap
-## 🎯 Transição Estratégica para Product Manager
+# 🚀 Product Manager Career Transition Plan  
+### From Commercial Executive to Product Strategy
+
+---
+
+## 👨‍💼 Sobre mim
+
+Profissional com 5 anos de experiência em tecnologia atuando como Executivo Comercial, com foco em desenvolvimento de negócios e parcerias estratégicas.
+
+Atualmente em transição para Product Management, buscando conectar visão de mercado, experiência com clientes e estratégia de produto.
+
+🎯 Foco: Crescimento na área de produto  
+📍 Interesse: Produtos digitais, dados e experiência do usuário  
 
 ---
 
@@ -11,27 +22,27 @@ Este projeto foi desenvolvido como parte de um desafio da **DIO (Digital Innovat
 - Recomendação de carreira em tecnologia  
 - Construção de um plano de evolução estruturado  
 
-A proposta vai além do básico: aqui foi construída uma visão estratégica de carreira com foco em **Product Management**, conectando experiência prévia com tecnologia e negócios.
+Mais do que um exercício, este projeto representa uma **estratégia real de transição de carreira para Product Management**.
 
 ---
 
 ## 🧠 Etapa 1: Descoberta de Perfil (Agent 1)
 
-### 📊 Diagnóstico do Usuário
+### 📊 Diagnóstico
 
 | Critério | Resposta |
 |--------|--------|
 | Interesse principal | Resolver problemas |
-| Experiência | 5 anos em empresa de tecnologia (Executivo Comercial) |
-| Disponibilidade | 1 hora/dia (≈ 5h semanais) |
+| Experiência | 5 anos em tecnologia (Executivo Comercial) |
+| Disponibilidade | 5 horas/semana |
 | Preferência | Pessoas |
-| Objetivo | Crescimento na carreira atual |
-| Interesses | Web, Dados, Inteligência Artificial |
+| Objetivo | Crescimento profissional |
+| Interesses | Web, Dados, IA |
 | Nível técnico | Iniciante |
 
 ---
 
-### 💡 Carreiras Sugeridas
+### 💡 Carreiras sugeridas
 
 1. **Product Manager** ⭐ (Escolhida)  
 2. Data Analyst  
@@ -39,17 +50,16 @@ A proposta vai além do básico: aqui foi construída uma visão estratégica de
 
 ---
 
-### 🎯 Justificativa da Escolha
+### 🎯 Justificativa
 
-A carreira de **Product Manager** foi escolhida por apresentar alto alinhamento com o perfil:
+A escolha por Product Manager se baseia em:
 
-- Forte interação com pessoas (stakeholders, clientes, times)
-- Uso constante de resolução de problemas
-- Necessidade de visão estratégica de negócio
-- Aproveitamento direto da experiência comercial
+- Forte interação com pessoas  
+- Necessidade de visão estratégica  
+- Conexão direta com negócios  
+- Aproveitamento da experiência comercial  
 
-📌 **Insight-chave:**  
-A transição não é um recomeço, mas uma evolução natural de carreira.
+📌 **Insight:** Transição estratégica, não recomeço.
 
 ---
 
@@ -59,34 +69,32 @@ A transição não é um recomeço, mas uma evolução natural de carreira.
 
 ## 🧩 VISÃO DO DIA A DIA
 
-Como é o trabalho de um(a) Product Manager:
-
 - Identificar problemas reais dos usuários  
-- Traduzir necessidades em soluções de produto  
-- Priorizar backlog e definir roadmap  
-- Alinhar áreas (tech, design, marketing, negócios)  
-- Acompanhar métricas e evolução do produto  
+- Traduzir necessidades em soluções  
+- Priorizar backlog e roadmap  
+- Alinhar times (tech, design, negócio)  
+- Acompanhar métricas  
 
 ---
 
 ## 🧠 MAPA DE SKILLS
 
-### 🔥 CORE SKILLS (essenciais)
+### CORE SKILLS
 
 - Pensamento estratégico de produto  
 - Comunicação e influência  
-- Análise de dados e tomada de decisão  
+- Análise de dados  
 
 ---
 
-### ➕ NICE-TO-HAVE
+### NICE-TO-HAVE
 
 - UX/UI básico  
-- Conhecimento técnico (APIs, web, sistemas)  
+- Conhecimento técnico  
 
 ---
 
-### 🛠️ FERRAMENTAS
+### FERRAMENTAS
 
 - Notion / Jira / Trello  
 - Google Analytics / Mixpanel  
@@ -96,8 +104,7 @@ Como é o trabalho de um(a) Product Manager:
 
 ## 📅 ROADMAP DE 90 DIAS
 
-📌 Carga: 5h/semana  
-📌 Foco: Consistência > intensidade  
+**Carga: 5h/semana**
 
 ---
 
@@ -105,23 +112,23 @@ Como é o trabalho de um(a) Product Manager:
 
 **Semana 1-2**
 - Fundamentos de Product Management  
-- Product Lifecycle (Discovery → Delivery)  
+- Product Lifecycle  
 
 **Semana 3-4**
-- Métricas de produto (KPIs, North Star)  
-- Frameworks: MVP, OKR, Roadmap  
+- Métricas de produto  
+- MVP, OKR, Roadmap  
 
 ---
 
 ### 🛠️ MÊS 2 — PRÁTICA
 
 **Semana 5-6**
-- Análise de produtos reais (Nubank, iFood, Netflix)  
-- Escrita de problemas e hipóteses  
+- Análise de produtos reais  
+- Definição de problemas  
 
 **Semana 7-8**
-- Criação de roadmap fictício  
-- Priorização com RICE e ICE  
+- Roadmap fictício  
+- Priorização (RICE, ICE)  
 
 ---
 
@@ -129,151 +136,148 @@ Como é o trabalho de um(a) Product Manager:
 
 **Semana 9-10**
 - Construção do projeto  
-- Documentação estratégica  
+- Documentação  
 
 **Semana 11-12**
-- Preparação para entrevistas  
-- Simulação de pitch de produto  
+- Entrevistas  
+- Pitch de produto  
 
 ---
 
 ## 🚀 PROJETO DE PORTFÓLIO
 
-### 💡 Nome do Projeto
-**FinanChat — Gestão Financeira via Conversa**
+### 💡 FinanChat — Gestão Financeira via Conversa
 
 ---
 
 ### 🎯 Problema
 
-Usuários têm dificuldade em manter controle financeiro por conta da complexidade dos aplicativos tradicionais.
+Usuários têm dificuldade em manter controle financeiro devido à complexidade dos aplicativos atuais.
 
 ---
 
 ### 💡 Solução
 
-Criar um sistema de controle financeiro baseado em **interação por chat**, eliminando fricção e simplificando o processo.
+Um sistema de gestão financeira baseado em chat, permitindo interação simples e natural.
 
 ---
 
 ### ⚙️ Funcionalidades
 
 - Registro de gastos via linguagem natural  
-- Classificação automática de despesas  
-- Metas financeiras personalizadas  
-- Insights inteligentes de economia  
-- Relatórios simples e visuais  
+- Classificação automática  
+- Metas financeiras  
+- Recomendações inteligentes  
+- Relatórios simples  
+
+---
+
+### 📊 Métricas do Produto
+
+- Retenção de usuários  
+- Frequência de uso  
+- Engajamento com recomendações  
+- Criação de metas financeiras  
 
 ---
 
 ### 📦 Entregáveis
 
-- Documento de Product Discovery  
-- Roadmap do produto  
-- Protótipo (Figma ou slides)  
-- Definição de métricas  
+- Documento de discovery  
+- Roadmap  
+- Protótipo  
+- Métricas definidas  
 
 ---
 
-### ✅ Critérios de Qualidade
+### 🔮 Próximas Evoluções
 
-- Clareza do problema  
-- Lógica da solução  
-- Coerência estratégica  
-- Foco no usuário  
+- Integração com Open Banking  
+- IA para recomendações  
+- Dashboard avançado  
+- Mobile-first  
 
 ---
 
-### 💡 Diferencial
+### 🤝 Conexão com Experiência Profissional
 
-Projeto baseado em **problema real + visão de negócio + experiência do usuário**
+Este projeto foi construído com base na minha experiência em tecnologia e relacionamento com clientes.
+
+A lógica aplicada segue:
+
+diagnóstico → solução → entrega de valor → retenção  
 
 ---
 
 ## 💬 ROTEIRO DE ENTREVISTAS
 
-### 🧠 Pergunta 1  
-**Por que Product Manager?**
-
-"Tenho experiência em tecnologia no lado comercial, sempre próximo do cliente e das soluções. Quero evoluir para uma posição onde eu possa conectar necessidades reais com desenvolvimento de produtos."
+**Por que Product Manager?**  
+Tenho experiência comercial em tecnologia e quero evoluir para uma posição estratégica conectando usuários e produto.
 
 ---
 
-### 🧠 Pergunta 2  
-**Como você prioriza demandas?**
-
-"Utilizo critérios como impacto no negócio, valor para o usuário e esforço técnico, apoiado por frameworks como RICE."
+**Como prioriza?**  
+Uso impacto, valor e esforço com frameworks como RICE.
 
 ---
 
-### 🧠 Pergunta 3  
-**Como lida com stakeholders?**
-
-"Busco alinhamento constante e comunicação clara, conectando os objetivos de cada área ao objetivo do produto."
+**Stakeholders?**  
+Comunicação clara e alinhamento constante.
 
 ---
 
-### 🧠 Pergunta 4  
-**Você trabalha com dados?**
-
-"Sim, utilizo dados para validar hipóteses e orientar decisões, e estou evoluindo continuamente nessa habilidade."
+**Dados?**  
+Uso dados para validar decisões e estou evoluindo continuamente.
 
 ---
 
-### 🧠 Pergunta 5  
-**Conte um case seu**
-
-"Na minha atuação comercial, identifiquei oportunidades estratégicas de parceria, conectando necessidades do parceiro com soluções da empresa, gerando valor para ambos."
+**Case real**  
+Atuação em parcerias estratégicas conectando necessidades e soluções.
 
 ---
 
-## 🎓 TRILHA DIO RECOMENDADA
+## 🎓 TRILHA DIO
 
-### 📚 Formação
-**Product Manager — DIO**
+**Formação Product Manager**
 
----
+### Por que
 
-### 🎯 Por que essa trilha?
-
-- Conecta teoria + prática  
-- Desenvolve visão estratégica  
-- Ajuda na construção de portfólio  
+Desenvolve visão estratégica e prática.
 
 ---
 
-### ▶️ Próximos passos
+### Passos
 
-1. Acesse: https://www.dio.me  
-2. Busque por "Product Manager"  
-3. Inicie a trilha  
-4. Siga junto com este roadmap  
+1. Acessar dio.me  
+2. Buscar "Product Manager"  
+3. Iniciar trilha  
+4. Seguir roadmap  
 
 ---
 
-## 📊 DIFERENCIAIS DO PROJETO
+## 📊 DIFERENCIAIS
 
-✅ Baseado em autoconhecimento real  
-✅ Conexão com experiência profissional  
-✅ Foco em produto, não só tecnologia  
-✅ Estrutura de roadmap profissional  
-✅ Projeto com aplicação prática  
+- Projeto baseado em problema real  
+- Conexão com experiência profissional  
+- Foco em produto e negócio  
+- Estrutura profissional  
+- Visão estratégica  
 
 ---
 
 ## 🧭 PRÓXIMOS PASSOS
 
-- Evoluir o projeto FinanChat  
+- Evoluir FinanChat  
 - Criar protótipo no Figma  
 - Publicar no LinkedIn  
-- Aplicar para vagas de Product  
+- Aplicar para vagas  
 
 ---
 
-## ✨ Conclusão
+## ✨ CONCLUSÃO
 
-Este projeto representa não apenas um plano de estudos, mas uma **estratégia de evolução profissional**, conectando experiência prévia com o futuro desejado.
+Este projeto representa uma transição estratégica de carreira, conectando experiência prévia com o futuro em Product Management.
 
 ---
 
-💬 *"O mais importante não é começar perfeito, mas evoluir com consistência."*
+💬 "Consistência vence intensidade."
